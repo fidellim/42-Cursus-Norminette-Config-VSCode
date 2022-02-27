@@ -41,3 +41,5 @@ Go to the settings of VS Code. <br/>
 Then, add `line 9`.
 
 <img src="./images/settings_json.png" alt="score" width="500"/>
+
+## Now, you're ready to go! Good luck on your journey in 42 ✌️
